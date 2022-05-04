@@ -33,7 +33,7 @@ Now also available on [Docker Hub](https://hub.docker.com/r/faiqsohail/proxychec
 ### Build from Source
 This assumes you have both Java and [Maven](https://maven.apache.org/download.cgi) setup correctly.
 ```
-git clone https://github.com/faiqsohail/ProxyChecker.git
+git clone https://github.com/My9Bot/ProxyChecker.git
 mvn package -f ProxyChecker/pom.xml
 java -jar ProxyChecker/target/ProxyChecker.jar
 ```
