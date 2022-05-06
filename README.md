@@ -1,3 +1,4 @@
+[![Java CI with Maven](https://github.com/My9Bot/ProxyChecker/actions/workflows/maven.yml/badge.svg)](https://github.com/My9Bot/ProxyChecker/actions/workflows/maven.yml)
 # ProxyChecker
 An easy to use open-source, multithreaded Proxy Checker.
 Allows you to quickly check HTTP and SOCKS proxies in a user friendly GUI, for Windows, Mac OS, Linux.
